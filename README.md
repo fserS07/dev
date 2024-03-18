@@ -33,5 +33,3 @@ yarn start
 
 
 La aplicación se abrirá en tu navegador predeterminado y podrás verla en funcionamiento.
-
-¡Listo! Ahora has clonado el repositorio, instalado las dependencias y ejecutado la aplicación utilizando Yarn. ¡Disfruta explorando el proyecto!
